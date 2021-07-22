@@ -37,8 +37,8 @@ $ git checkout -b YOUR-BRANCH-NAME
 ## To Test Your Changes
 After you make the changes to the challenges, you can run a test to see if your answers are correct. You can run this as many times as needed until all the tests pass.
 
-```
-$ sudo npm test main.test.js
+```npm test main.test.js
+$ sudo 
 ```
 
 #### Failing tests will have red in the final output
